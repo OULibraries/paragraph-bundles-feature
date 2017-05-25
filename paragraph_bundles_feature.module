@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Paragraph Bundles Feature feature.
+ */
+
+include_once 'paragraph_bundles_feature.features.inc';
