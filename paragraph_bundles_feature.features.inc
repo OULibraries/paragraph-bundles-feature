@@ -53,6 +53,11 @@ function paragraph_bundles_feature_paragraphs_info() {
       'bundle' => 'section_header',
       'locked' => '1',
     ),
+    'test' => array(
+      'name' => 'test',
+      'bundle' => 'test',
+      'locked' => '1',
+    ),
     'two_column_list' => array(
       'name' => 'Two Column List',
       'bundle' => 'two_column_list',
